@@ -40,33 +40,33 @@
  - Tools
    - Office(W/P/X/V)
    - Axure RP(Rapid Prototyping)
-- Server Operating System
-  - Unix
-    - IBM AIX
-  - [Linux](https://github.com/shawn0915/linux-study)
-  - Windows Server
-- Data
-  - [MySQL](https://github.com/shawn0915/mysql-study)
-  - [Oracle](https://github.com/shawn0915/oracle-study)
-  - Memcached
-  - Redis
-    - Codis
-  - MongoDB
-  - PostgreSQL
-  - DB Tools
-    - Power Designer
-  - ETL(Extraction, Transformation, and Loading)
-    - [Pentaho Kettle](https://github.com/pentaho/pentaho-kettle)
-- Dev
+- Sys Level
+  - Server Operating System
+    - Unix
+      - IBM AIX
+    - [Linux](https://github.com/shawn0915/linux-study)
+    - Windows Server
+  - Data
+    - [MySQL](https://github.com/shawn0915/mysql-study)
+    - [Oracle](https://github.com/shawn0915/oracle-study)
+    - Memcached
+    - Redis
+      - Codis
+    - MongoDB
+    - PostgreSQL
+    - DB Tools
+      - Power Designer
+    - ETL(Extraction, Transformation, and Loading)
+      - [Pentaho Kettle](https://github.com/pentaho/pentaho-kettle)
+  - [Middleware](https://github.com/shawn0915/middleware-study)
+- App Level
   - Program Language
     - [Java](https://github.com/shawn0915/java-study)
   - Back-End Framework
   - Front-End Framework
   - [Dev Tools](https://github.com/shawn0915/dev-tool-study)
-- [Middleware](https://github.com/shawn0915/middleware-study)
-- [Application Server](https://github.com/shawn0915/server-study/blob/master/README.md#application-server)
-- [Web Server](https://github.com/shawn0915/server-study/blob/master/README.md#web-server)
 - Testing
 - Security
+- Monitor
 
 
