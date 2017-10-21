@@ -33,13 +33,13 @@
 ## IT R&D
 
 - Product Design
- - Function
- - Requirement
- - Biz Modle
- - UI/UE
- - Tools
-   - Office(W/P/X/V)
-   - Axure RP(Rapid Prototyping)
+  - Function
+  - Requirement
+  - Biz Modle
+  - UI/UE
+  - Tools
+    - Office(W/P/X/V)
+    - Axure RP(Rapid Prototyping)
 - Sys Level
   - Server Operating System
     - Unix
