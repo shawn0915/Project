@@ -7,31 +7,35 @@
 
 ## Management
 
-### Self-Mgmt
+### Self Management
 
 - self-control 自控力
 - Time 时间掌控力
 
-### Team-Mgmt
+### Team Management
 
 - Goal 目标
 - Time 时间
 - Collaboration 协作
 
-### IT Mgmt
+### IT Management
 
-- Project Management
-- ITIL
-- Scrum
-- DevOps
-- Tools
-  - board
-  - JIRA
-    - Redmine
+- Focus
+  - Lifecycle
+  - Scope
+  - Cost
+- Theory
+  - Project Management
+  - ITIL
+  - JIT
+  - Scrum
+  - DevOps
 
 
 ## IT R&D
 
+- Project Management
+  - [Management Tools](https://github.com/shawn0915/tools-study)
 - Product Design
   - Function
   - Requirement
@@ -40,7 +44,7 @@
   - Tools
     - Office(W/P/X/V)
     - Axure RP(Rapid Prototyping)
-- Sys Level
+- System Level
   - Server Operating System
     - Unix
       - IBM AIX
@@ -61,14 +65,14 @@
     - ETL(Extraction, Transformation, and Loading)
       - [Pentaho Kettle](https://github.com/pentaho/pentaho-kettle)
   - [Middleware](https://github.com/shawn0915/middleware-study)
-- App Level
+- Application Level
   - Program Language
     - [Java](https://github.com/shawn0915/java-study)
   - Back-End Framework
   - Front-End Framework
-  - [Dev Tools](https://github.com/shawn0915/dev-tool-study)
-- Testing
+  - [Development Tools](https://github.com/shawn0915/tools-study)
+- [Testing](https://github.com/shawn0915/testing-study)
 - Security
 - Monitor
-
+  - [Monitor Tools](https://github.com/shawn0915/tools-study)
 
