@@ -47,7 +47,7 @@
 - System Level
   - Server Operating System
     - Unix
-      - IBM AIX
+      - [IBM AIX](https://github.com/shawn0915/linux-study/blob/master/unix/aix/AIX.md)
     - [Linux](https://github.com/shawn0915/linux-study)
     - Windows Server
   - Data
