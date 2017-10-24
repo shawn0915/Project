@@ -35,7 +35,7 @@
 ## IT R&D
 
 - Project Management
-  - [Management Tools](https://github.com/shawn0915/tools-study)
+  - [Management Tools](https://github.com/shawn0915/tools-study/blob/master/README.md#management)
 - Product Design
   - Function
   - Requirement
