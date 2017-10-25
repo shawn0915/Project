@@ -66,16 +66,24 @@
     - [Linux](https://github.com/shawn0915/linux-study)
     - Windows Server
   - Data
-    - [Oracle MySQL](https://github.com/shawn0915/mysql-study)
-    - [Oracle Database](https://github.com/shawn0915/oracle-study)
-    - Microsoft SQL Server
-    - IBM DB2
-    - Memcached
-    - Redis
-      - Codis
-    - MongoDB
-    - PostgreSQL
+    - Relational DBMS
+      - [MySQL](https://github.com/shawn0915/mysql-study)
+	    - MariaDB
+      - [Oracle Database](https://github.com/shawn0915/oracle-study)
+      - Microsoft SQL Server
+	    - ~~Access~~
+      - IBM DB2
+      - PostgreSQL
+	- Key-Value Store
+      - ~~Memcached~~
+      - Redis
+        - Codis
+    - Document Store
+      - MongoDB
+    - In-Memory Database
+      - SQLite
     - Data Migration
+	  - ETL (Extraction, Transformation, and Loading)
   - [Middleware](https://github.com/shawn0915/middleware-study)
 - Application Level
   - Program Language
@@ -84,13 +92,15 @@
     - Perl
     - Python
     - Ruby
-  - Back-End Framework
-  - Front-End Framework
-  - [Development Tools](https://github.com/shawn0915/tools-study)
+  - Back-End Development
+    - Back-End Framework
+  - Front-End Development
+    - Front-End Framework
+  - [Development Tools](https://github.com/shawn0915/tools-study/blob/master/README.md#monitor)
 - [Testing](https://github.com/shawn0915/testing-study)
 - Security
   - ISO27001
   - CISSP
 - Monitor
-  - [Monitor Tools](https://github.com/shawn0915/tools-study)
+  - [Monitor Tools](https://github.com/shawn0915/tools-study/blob/master/README.md#monitor)
 
