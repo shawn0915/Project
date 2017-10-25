@@ -10,7 +10,7 @@
 ### Self Management
 
 - self-control 自控力
-- Time 时间掌控力
+- Time 时间感知、掌控力
 
 ### Team Management
 
@@ -26,9 +26,11 @@
   - Cost
   - Lifecycle
 - Theory
-  - Project Management
-  - ITIL
-  - JIT(Just-In-Time)
+  - PMBOK (Project Management Body of Knowledge)
+  - ITIL (Information Technology Infrastructure Library)
+  - JIT (Just-In-Time)
+  - RUP (Rational Unified Process)
+  - Agile
   - Scrum
   - DevOps
 
@@ -42,8 +44,8 @@
   - Biz Modle
   - UI/UE
   - Tools
-    - Office(W/P/X/V)
-    - Axure RP(Rapid Prototyping)
+    - Office (W/P/X/V)
+    - Axure RP (Rapid Prototyping)
 - Hardware Level
   - Storage
     - IBM
@@ -73,18 +75,15 @@
       - Codis
     - MongoDB
     - PostgreSQL
-    - DB Tools
-      - Power Designer
-    - ETL(Extraction, Transformation, and Loading)
-      - [Pentaho Kettle](https://github.com/pentaho/pentaho-kettle)
 	- Data Migration
   - [Middleware](https://github.com/shawn0915/middleware-study)
 - Application Level
   - Program Language
     - [Java](https://github.com/shawn0915/java-study)
-	- Shell
-	- Perl
-	- Python
+    - Shell
+    - Perl
+    - Python
+	- Ruby
   - Back-End Framework
   - Front-End Framework
   - [Development Tools](https://github.com/shawn0915/tools-study)
