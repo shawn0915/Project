@@ -49,33 +49,33 @@
 - Hardware Level
   - Storage
     - IBM
-	- EMC
-	  - DELL
-	- SAN
+    - EMC
+      - DELL
+    - SAN
   - Virtualization
     - VMware Sphere
-	- OpenStack
-	  - KVM
-	- IBM PowerVM
+    - OpenStack
+      - KVM
+    - IBM PowerVM
   - Cloud
 - System Level
   - Server Operating System
     - Unix
       - [IBM AIX](https://github.com/shawn0915/linux-study/blob/master/unix/aix/AIX.md)
-	  - HP-UX
+      - HP-UX
     - [Linux](https://github.com/shawn0915/linux-study)
     - Windows Server
   - Data
-    - [MySQL](https://github.com/shawn0915/mysql-study)
-    - [Oracle](https://github.com/shawn0915/oracle-study)
-	- SQL Server
-	- IBM DB2
+    - [Oracle MySQL](https://github.com/shawn0915/mysql-study)
+    - [Oracle Database](https://github.com/shawn0915/oracle-study)
+    - Microsoft SQL Server
+    - IBM DB2
     - Memcached
     - Redis
       - Codis
     - MongoDB
     - PostgreSQL
-	- Data Migration
+    - Data Migration
   - [Middleware](https://github.com/shawn0915/middleware-study)
 - Application Level
   - Program Language
@@ -83,7 +83,7 @@
     - Shell
     - Perl
     - Python
-	- Ruby
+    - Ruby
   - Back-End Framework
   - Front-End Framework
   - [Development Tools](https://github.com/shawn0915/tools-study)
