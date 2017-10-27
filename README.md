@@ -29,6 +29,7 @@
   - PMBOK (Project Management Body of Knowledge)
   - ITIL (Information Technology Infrastructure Library)
   - JIT (Just-In-Time)
+  - SunTone
   - RUP (Rational Unified Process)
   - Agile
   - Scrum
@@ -63,6 +64,7 @@
     - Unix
       - [IBM AIX](https://github.com/shawn0915/linux-study/blob/master/unix/aix/AIX.md)
       - HP-UX
+	  - Solaris OS
     - [Linux](https://github.com/shawn0915/linux-study)
     - Windows Server
   - Data
@@ -83,6 +85,7 @@
     - In-Memory Database
       - SQLite
     - Data Migration
+    - Data Ware
 	  - ETL (Extraction, Transformation, and Loading)
   - [Middleware](https://github.com/shawn0915/middleware-study)
 - Application Level
