@@ -71,7 +71,7 @@
   - Data
     - Relational DBMS
       - [MySQL](https://github.com/shawn0915/mysql-study)
-        - MariaDB
+        - MariaDB
       - [Oracle Database](https://github.com/shawn0915/oracle-study)
       - Microsoft SQL Server
         - ~~Access~~
