@@ -61,23 +61,23 @@
   - Cloud
 - System Level
   - Server Operating System
-   - ~~DOS (Disk Operating System)~~
-   - Unix
+    - ~~DOS (Disk Operating System)~~
+    - Unix
       - [IBM AIX](https://github.com/shawn0915/linux-study/blob/master/unix/aix/AIX.md)
-      - HP-UX
-      - Solaris OS
-    - [Linux](https://github.com/shawn0915/linux-study)
+      - HP-UX
+      - Solaris OS
+    - [Linux](https://github.com/shawn0915/linux-study)
     - Windows Server
   - Data
     - Relational DBMS
-      - [MySQL](https://github.com/shawn0915/mysql-study)
+      - [MySQL](https://github.com/shawn0915/mysql-study)
         - MariaDB
       - [Oracle Database](https://github.com/shawn0915/oracle-study)
-      - Microsoft SQL Server
-        - ~~Access~~
+      - Microsoft SQL Server
+        - ~~Access~~
       - IBM DB2
-      - PostgreSQL
-    - Key-Value Store
+      - PostgreSQL
+    - Key-Value Store
       - ~~Memcached~~
       - Redis
         - Codis
@@ -86,8 +86,8 @@
     - In-Memory Database
       - SQLite
     - Data Migration
-    - Data Ware
-      - ETL (Extraction, Transformation, and Loading)
+    - Data Ware
+      - ETL (Extraction, Transformation, and Loading)
   - [Middleware](https://github.com/shawn0915/middleware-study)
 - Application Level
   - Program Language
