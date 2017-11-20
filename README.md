@@ -32,7 +32,7 @@
 ### IT Management
 
 - Focus 重点关注
-  - Goal
+  - Goal 目标
   - Scope 范围
   - Time 时间
   - Cost 成本
@@ -95,29 +95,32 @@
   - Windows Server
 - Data
   - Relational DBMS
+    - Ingres
+      - Sysbase
+      - Microsoft SQL Server
+        - ~~Access~~
+      - PostgreSQL
+        - [EnterpriseDB](https://www.enterprisedb.com)
     - [MySQL](https://github.com/shawn0915/mysql-study)
       - MariaDB
       - Percona Server
     - [Oracle Database](https://github.com/shawn0915/oracle-study)
-    - Microsoft SQL Server
-      - ~~Access~~
     - IBM DB2
-    - PostgreSQL
   - Key-Value Store
     - ~~Memcached~~
     - Redis
       - Codis
   - Search
     - Lucene
-    - Solr
-    - ElasticSearch
+      - Solr
+      - ElasticSearch
   - Document Store
     - MongoDB
   - In-Memory Database
     - SQLite
   - Data Migration
-  - Data Ware
     - ETL (Extraction, Transformation, and Loading)
+  - Data Ware
 - [Middleware](https://github.com/shawn0915/middleware-study)
 
 ### Application-Level
