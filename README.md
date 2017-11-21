@@ -98,7 +98,7 @@
     - Ingres
       - Sysbase
       - Microsoft SQL Server
-        - ~~Access~~
+        - Microsoft Access
       - PostgreSQL
         - [EnterpriseDB](https://www.enterprisedb.com)
     - [MySQL](https://github.com/shawn0915/mysql-study)
@@ -107,15 +107,17 @@
     - [Oracle Database](https://github.com/shawn0915/oracle-study)
     - IBM DB2
   - Key-Value Store
-    - ~~Memcached~~
+    - Memcached
     - Redis
       - Codis
+  - Document Store
+    - MongoDB
   - Search
     - Lucene
       - Solr
       - ElasticSearch
-  - Document Store
-    - MongoDB
+  - Wide column store
+    - Apache Cassandra
   - In-Memory Database
     - SQLite
   - Data Migration
