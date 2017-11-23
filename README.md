@@ -5,7 +5,7 @@
 **Goal, Efficiency!** 目标、效率
 
 - [Management](#management)
-- [IT R&D DevOps](#it-rd-devops)
+- [IT R&D](#it-rd-devops)
   - [Project Management](#project-management)
   - [Product Design](#product-design)
   - [Hardware Level](#hardware-level)
@@ -14,6 +14,7 @@
   - [Testing](#testing)
   - [Security](#security)
   - [Monitor](#monitor)
+- [IT DevOps](#it-devops)
 
 ## Management
 
@@ -22,6 +23,7 @@
 - self-control 自控力
 - self-driven 自驱力
 - Time 时间感知、时间掌控
+  - 番茄🍅工作法
 
 ### Team Management
 
@@ -48,7 +50,7 @@
   - Scrum
   - DevOps
 
-## IT-RD-DevOps
+## IT-RD
 
 ### Project-Management
 项目管理
@@ -155,3 +157,10 @@
 监控
 
 - [Monitor Tools](https://github.com/shawn0915/tools-study/blob/master/README.md#monitor)
+
+## IT-DevOps
+
+- CMDB
+  - 标准化
+- CI/CD
+- Docker
