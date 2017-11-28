@@ -103,7 +103,7 @@
         - Microsoft Access
       - PostgreSQL
         - [EnterpriseDB](https://www.enterprisedb.com)
-    - [MySQL](https://github.com/shawn0915/mysql-study)
+    - [MySQL](https://github.com/shawn0915/mysql-study/blob/master/README.md#mysql-knowledge-system)
       - [MariaDB](https://github.com/shawn0915/mysql-study/blob/master/branch/MariaDB.md#mariadb)
       - [Percona Server](https://github.com/shawn0915/mysql-study/blob/master/branch/PerconaServer.md#percona-server)
     - [Oracle Database](https://github.com/shawn0915/oracle-study)
@@ -114,7 +114,7 @@
     - Redis
       - Codis
   - Document Store
-    - MongoDB
+    - [MongoDB](https://github.com/shawn0915/mongoDB-study#mongodb-study)
   - Search
     - Lucene
       - Solr
