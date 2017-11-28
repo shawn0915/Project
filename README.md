@@ -92,7 +92,8 @@
     - [IBM AIX](https://github.com/shawn0915/linux-study/blob/master/unix/aix/AIX.md)
     - HP-UX
     - Solaris OS
-  - [Linux](https://github.com/shawn0915/linux-study)
+  - [Linux](https://github.com/shawn0915/linux-study/blob/master/README.md#linux-study)
+    - [Linux Release Version](https://github.com/shawn0915/linux-study/blob/master/README.md#releaseversion)
   - ~~DOS (Disk Operating System)~~
   - Windows Server
 - Data
